@@ -1,0 +1,33 @@
+h2 {
+    color: blue;
+}
+
+h2 ~ p {
+    color: red;
+}
+
+[data-gallery] {
+    width: 100%;
+    height: 200px;
+}
+
+table:nth-child(even) {
+    background-color: gray;
+}
+
+table:nth-child(odd) {
+    background-color: white;
+}
+
+.wowik {
+    color: white;
+    background-color: white;
+}
+
+[data-status="active"] {
+    background-color: green;
+}
+
+[data-status="inactive"] {
+    background-color: red;
+}
