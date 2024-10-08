@@ -1,7 +1,6 @@
-video {
-    font-size: 10%;
+h1 {
+    color: blue;
 }
-audio {
-    width: 20%;
-    height: 320px;
+p {
+    color: red;
 }
